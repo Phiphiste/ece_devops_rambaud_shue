@@ -1,0 +1,30 @@
+{
+  "name": "ece_nodejs_yven_rambaud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Phiphiste/ece_nodejs_yven_rambaud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Phiphiste/ece_nodejs_yven_rambaud/issues"
+  },
+  "homepage": "https://gitlab.com/Phiphiste/ece_nodejs_yven_rambaud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+	  "node": "8.1.1",
+	  "npm": "5.0.3"
+  },
+  "scripts": {
+	  "start": "node index.js"
+  }
+}
