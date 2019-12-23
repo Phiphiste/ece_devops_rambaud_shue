@@ -1,6 +1,6 @@
 # Basics of CI/CD for DevOps
 
-To learn DevOps methodology and softwares, the goal of this project is to implement DevOps tools on whatever project. To be easier, I made up a simple Nodejs project to try implementing Continuous Integration and Delivery. This project covers the whole CI/CD process.
+To learn DevOps methodology and softwares, the goal of this project is to implement DevOps tools on whatever project. To be easier, we made up a simple Nodejs project to implement Continuous Integration and Delivery. This project covers the whole CI/CD process.
 
 ## Installation
 
@@ -46,6 +46,7 @@ To run the app, you can do it from the bash, in the project directory:
 ```
 npm start
 ```
+It is supposed to be available on the 8080 port of your localhost.
 
 ## Running the Unit Test
 
@@ -54,6 +55,8 @@ To test the app, you can do it from the bash, in the project directory:
 ```
 npm test
 ```
+
+You will see if the test is passed or not.
 
 ### Deployment
 
